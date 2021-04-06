@@ -1,2 +1,2 @@
 # TeChat_report
-Techat Report with quality
+TeChat Report with quality
